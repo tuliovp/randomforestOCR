@@ -21,4 +21,4 @@
                       <li>H6: An increase in the number of photos positively impacts the online customer review rating (OCR)</li>
                     </ul>
                     <br><br>
-                    <img src="/media/dissertation_methodology.png"> </p>
+                    
